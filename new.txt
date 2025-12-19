@@ -1,3 +1,7 @@
 heyyyyyyyyyyyyyyyyyyyyyyyyy
+<<<<<<< HEAD
 hwuihwe8dh
 suhf8sdf8sfjdiu
+=======
+hiiiiiiiiii
+>>>>>>> 0df5351a5efcf83eb3f971af147e016f48b2b03d
